@@ -1,6 +1,6 @@
 Welcome Themeable
 ==================
-web2py welcome application made themeable whether it wants to or not. **Do not use this** as it is just a proof of concept and an exploration into how to implement theming in web2py.
+web2py welcome application made themeable whether it wants to or not. **Do not use this** as it is just a proof of concept and an exploration into how to implement theming in web2py. Seriously, this is not properly crafted and doesn't even use AppConfig to set the theme yet.
 
 Instructions:
 - install latest web2py
